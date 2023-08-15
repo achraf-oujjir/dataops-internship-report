@@ -1,16 +1,22 @@
 Couverture/Page de garde (done)
-Avant-propos/Résumé
+Avant-propos/Résumé (last)
 Remerciements (done)
-Sommaire
-Liste des tableaux et figures
-Liste des abréviations
-Glossaire (C'est une liste alphabétique des mots techniques expliqués)
+Sommaire (last)
+Liste des tableaux et figures (last)
+Liste des abréviations (last)
+Glossaire (last)
 Introduction
+Chapitre 1: Contexte général
+	Introduction
 	Présentation de l'entreprise
 	Problématique
-Développement
+	Objectifs / Travail à faire
+	Conclusion
+Chapitre 2: Solution:
+	Introduction
 	Simulation de l'environnement de prod (done)
 	Architecture et imlémentation de la solution -Done
+	Conclusion
 Conclusion
 Bibliographie
 Annexes
