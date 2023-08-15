@@ -10,7 +10,7 @@ Introduction
 	Problématique
 Développement
 	Simulation de l'environnement de prod (done)
-	Conception et imlémentation de la solution
+	Architecture et imlémentation de la solution -Done
 Conclusion
 Bibliographie
 Annexes
