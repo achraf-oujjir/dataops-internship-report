@@ -1,11 +1,16 @@
-Important parts to do:
-  How we simulated the Prod environment
-  Problem to solve (Présentation du sujet de stage)
-  Our solution (Conception/Architecture et implémentation)
-  Outils utilisés: Minikube, NiFi Rest API, Terraform, GitLab
-
-Other parts:
-  Introduction / Conclusion
-  Présentation de l'entreprise
-  
-  
+Couverture/Page de garde (done)
+Avant-propos/Résumé
+Remerciements (done)
+Sommaire
+Liste des tableaux et figures
+Liste des abréviations
+Glossaire (C'est une liste alphabétique des mots techniques expliqués)
+Introduction
+	Présentation de l'entreprise
+	Problématique
+Développement
+	Simulation de l'environnement de prod (done)
+	Conception et imlémentation de la solution
+Conclusion
+Bibliographie
+Annexes
