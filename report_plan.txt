@@ -13,11 +13,11 @@ Chapitre 1: Contexte général
 	Objectifs / Travail à faire
 	Conclusion
 Chapitre 2: Solution:
-	Introduction
+	Introduction (Done)
 	Outils utilisés
 	Simulation de l'environnement de prod (DONE)
 	Architecture et imlémentation de la solution (DONE)
-	Conclusion
+	Conclusion (Done)
 Conclusion
 Bibliographie
 Annexes
