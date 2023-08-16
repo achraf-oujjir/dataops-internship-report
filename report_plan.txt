@@ -1,11 +1,11 @@
-Couverture/Page de garde (done)
+Couverture/Page de garde                   (DONE)
 Avant-propos/Résumé (last)
-Remerciements (done)
+Remerciements                              (DONE)
 Sommaire (last)
 Liste des tableaux et figures (last)
 Liste des abréviations (last)
 Glossaire (last)
-Introduction
+Introduction                               (DONE)
 Chapitre 1: Contexte général
 	Introduction
 	Présentation de l'entreprise
@@ -14,8 +14,8 @@ Chapitre 1: Contexte général
 	Conclusion
 Chapitre 2: Solution:
 	Introduction
-	Simulation de l'environnement de prod (done)
-	Architecture et imlémentation de la solution -Done
+	Simulation de l'environnement de prod (DONE)
+	Architecture et imlémentation de la solution (DONE)
 	Conclusion
 Conclusion
 Bibliographie
