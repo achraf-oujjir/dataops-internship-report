@@ -7,10 +7,10 @@ Liste des abréviations (last)
 Glossaire (last)
 Introduction                               (DONE)
 Chapitre 1: Contexte général
-	Introduction
-	Présentation de l'entreprise
-	Problématique
-	Objectifs / Travail à faire
+	Introduction			   (DONE)
+	Présentation de l'entreprise	   (DONE)
+	Problématique 			   (DONE)
+	Objectifs / Travail à faire        (DONE)
 	Conclusion
 Chapitre 2: Solution:
 	Introduction (Done)
