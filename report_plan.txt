@@ -21,3 +21,20 @@ Chapitre 2: Solution:
 Conclusion
 Bibliographie
 Annexes
+
+
+https://www.canva.com/design/DAFpAfbtEd8/CvmxvKcB-wTfUPOejvanoQ/edit?utm_content=DAFpAfbtEd8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+Plan de présentation
+Introduction
+Problématique
+Objectifs à réaliser
+Sandboxing:
+    Outils: Docker, Kubernetes, Nifikop
+    Réalisation du bac-à-sable
+Pipeline:
+    Outils
+    Architecture
+    Implémentation
+    Démonstration
