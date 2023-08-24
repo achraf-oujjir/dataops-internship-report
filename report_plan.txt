@@ -38,3 +38,19 @@ Pipeline:
     Architecture
     Implémentation
     Démonstration
+
+
+
+Things to change in the report:
+
+Remerciements
+Liste des tableaux et figures
+Liste des abbréviations
+Glossaire
+Introduction
+Diagramme de l'entreprise
+Work on the fonts of the report
+Change pipeline architecture image
+Add in the tools used
+Add a special part for Nifikop
+
