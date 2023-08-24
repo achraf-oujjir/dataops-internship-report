@@ -51,6 +51,6 @@ Introduction
 Diagramme de l'entreprise
 Work on the fonts of the report
 Change pipeline architecture image
-Add in the tools used
-Add a special part for Nifikop
-
+Add in the tools used  (Done)
+Add a special part for Nifikop (I should do it)
+Add in a comment for every image
